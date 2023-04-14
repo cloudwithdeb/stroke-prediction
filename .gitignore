@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+venv/
+bright-ai-strokeprediction
+model/model.pkl
+endPoint/__pycache__/
+.pytest_cache
+__pycache__
+.pytest_cache
